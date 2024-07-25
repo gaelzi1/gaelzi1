@@ -18,7 +18,7 @@ I am dedicated to learning web development and am an active member of the develo
 ## STAST
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaelzi1&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelzi1&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/gaelzi1/github-readme-stats)
 
 
 
