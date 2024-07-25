@@ -1,4 +1,4 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R1Yjh5MXoxejkwbHlqaWN3NnE1ZTJpOGYxdDZldGtjaXB2M2V6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gHpMqiGHoDXb2/giphy.gif" width="70"/> Hey! I am Gael
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMno1b2JsZDdkcjhlem9uM2VzdHp1YWVyZTF0d3BrcGprcnBmOHF2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLGu3Icy4OImKOJpai/giphy.webp" width="80"/> Hey! I am Gael
 
 
  Software Engineering Student from Queretaro, México <img src="imagen-mexico.png" width="20"/>
@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gael_c2/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Gaelze3)
 
-I am dedicated to learning web development, I am also in the development center at my university, a place where I develop websites together with my colleagues.
+I am dedicated to learning web development and am an active member of the development center at my university. This center is a collaborative environment where I work alongside my colleagues to develop websites.  I enjoy the challenges of coding, designing user interfaces, and optimizing web performance. Being part of this center has also provided me with opportunities to collaborate, share knowledge, and continuously improve my web development abilities.
 
 ### Skills
 
